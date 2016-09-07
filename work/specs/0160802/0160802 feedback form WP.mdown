@@ -1,0 +1,9 @@
+
+and sfx.zip is the file I am reffering to in the doc.
+
+
+notes:
+	reverted back to old mixing one
+	fixed the silence at end bug
+	I have added more feedback when creating folders or zip file
+	added "Complete, x of x files sucessfully watermarked". 

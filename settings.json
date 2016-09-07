@@ -1,0 +1,20 @@
+{
+    "mp3 encoding": "128", 
+    "do mp3": false, 
+    "save org folder": true, 
+    "mix volume": 0.6718266253869969, 
+    "wfiles folder": "C:/Users/RFV/Desktop/0 income/watermarker/work/w-files splitted/", 
+    "ftp password": "User", 
+    "suffix demo": false, 
+    "flac encoding": "8", 
+    "suffix time": false, 
+    "ftp server": "localhost", 
+    "base folder": "C:/Users/RFV/Desktop/0 income/watermarker/work/base/", 
+    "do flac": false, 
+    "intro silence": 0.5046439628482973, 
+    "tools folder": "C:/Users/RFV/Desktop/0 income/watermarker/work/tools/", 
+    "ftp user": "User", 
+    "tag comment": "Soundimage Music Library (www.soundimage.eu | www.soundimage.pl)", 
+    "mix curve": 0.5046439628482973, 
+    "temp folder": "C:/Users/RFV/Desktop/0 income/watermarker/work/temp/"
+}
